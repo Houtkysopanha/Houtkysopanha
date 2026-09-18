@@ -52,6 +52,9 @@
 </tr>
 </table>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Houtkysopanha&theme=radical&hide_border=true&background=0D1117" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Houtkysopanha&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
 
 </div>
 
@@ -61,5 +64,6 @@
 
 ### Thanks for stopping by — feel free to explore my repos ⭐
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=42B883&height=100&section=footer" width="100%"/>
 
 </div>
