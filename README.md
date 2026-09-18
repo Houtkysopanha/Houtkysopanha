@@ -1,52 +1,69 @@
-<h1 align="center">Hi 👋, I'm Kysopanha Hout</h1>
-<h3 align="center">Software Developer | Always building something new</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=42B883&center=true&vCenter=true&width=500&lines=Building+clean%2C+working+software;Turning+ideas+into+code;Always+learning+something+new" alt="Typing SVG" />
-</p>
+# Hey, I'm Kysopanha Hout 👋
 
-<p align="center">
-  <a href="mailto:houtkysopanha69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Houtkysopanha">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### Software Developer crafting clean, working software — one idea at a time.
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=42B883&center=true&width=500&lines=Turning+ideas+into+code;Building+clean%2C+working+software;Always+learning+something+new" alt="Typing SVG" />
 
-### 🚀 About Me
+<br/>
 
-- 🔭 Currently building side projects and sharpening my craft
-- 🌱 Learning something new every week
-- 💬 Open to collaborating on interesting projects
-- ⚡ Fun fact: I like turning ideas into small, working apps
+[![Gmail](https://img.shields.io/badge/-houtkysopanha69%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:houtkysopanha69@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Houtkysopanha-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Houtkysopanha)
 
-### 🛠️ Tools & Practices
+</div>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<br/>
 
-### 📊 GitHub Stats
+## 🧭 Snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Houtkysopanha&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houtkysopanha&layout=compact&theme=radical&hide_border=true" />
-</p>
+```
+🔭  Currently building  → side projects & sharpening my craft
+🌱  Currently learning  → something new, every single week
+💬  Open to             → collaborating on interesting projects
+⚡  Fun fact             → I turn ideas into small, working apps
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Houtkysopanha&theme=radical&hide_border=true" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Houtkysopanha&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+## 🛠️ Toolbox
 
----
+<div align="center">
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my repos!</i></p>
+| Version Control | Editor | Hosting |
+|:---:|:---:|:---:|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+</div>
+
+<br/>
+
+## 📊 By the Numbers
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Houtkysopanha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+</td>
+<td>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houtkysopanha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Houtkysopanha&theme=radical&hide_border=true&background=0D1117" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Houtkysopanha&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Thanks for stopping by — feel free to explore my repos ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=42B883&height=100&section=footer" width="100%"/>
+
+</div>
